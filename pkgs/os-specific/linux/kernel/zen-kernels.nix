@@ -12,9 +12,9 @@ let
   variants = {
     # ./update-zen.py zen
     zen = {
-      version = "6.13.5"; # zen
+      version = "6.13.6"; # zen
       suffix = "zen1"; # zen
-      sha256 = "1m9lmshvc6mbiplfhrkk03vixkr2mdk09v2j5wsw1gfls9avrf2q"; # zen
+      sha256 = "1nn2wig1sff0628mvmmrgnzfkzhbgk3j4lxssj0n6phrnyg0ydkr"; # zen
       isLqx = false;
     };
     # ./update-zen.py lqx
